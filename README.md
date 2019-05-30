@@ -45,7 +45,7 @@
 - [Redemptions](https://github.com/1Hive/redemptions-app)
 - [MyID](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyID)
 - [MyTokens](https://github.com/MyBitFoundation/MyBit-DAO.tech/tree/master/apps/MyTokens)
-- [Livepeer Transcoder Manager](https://github.com/videoDAC/livepeer-aragon)
+- [Livepeer Delegator and Transcoder App](https://github.com/videoDAC/livepeer-aragon)
 
 # Organizations
 - [Aragon Association](https://aragon.org)
